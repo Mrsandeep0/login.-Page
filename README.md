@@ -8,4 +8,4 @@ A simple login page built using HTML and CSS. This project demonstrates the stru
 - **Forgot Password Link**: Allows users to reset their password if forgotten.
 - **Create Account Link**: Provides a link to create a new account.
 
-## Project Structure
+Project Structure
